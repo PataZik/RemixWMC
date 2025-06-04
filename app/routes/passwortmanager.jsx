@@ -8,7 +8,7 @@ import PasswortManagerView from "../components/PasswortManagerView";
 
 // ---------- Configuration ----------
 const FILE_PATH = path.resolve("data/passwoerter.json");
-const PIN_HASH  = "$2b$10$RrkhBESE3lXRaJHoI/gEy..."; // deine bestehende PIN-Hash
+const PIN_HASH  = "$2b$10$JqXEmrR61Ve2c.hvEJMoKu/ZECr2W9U9j42h50ziCAbiI5lxM7XOW"; // deine bestehende PIN-Hash
 
 const sessionStorage = createCookieSessionStorage({
   cookie: {
